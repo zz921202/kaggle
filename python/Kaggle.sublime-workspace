@@ -1,0 +1,1062 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"data_path	statement"
+			],
+			[
+				"to",
+				"to_write	statement"
+			],
+			[
+				"mat",
+				"mat_data	statement"
+			],
+			[
+				"all",
+				"allfiles	statement"
+			],
+			[
+				"li",
+				"listdir	function"
+			],
+			[
+				"tes",
+				"test_err	statement"
+			],
+			[
+				"plot",
+				"plot_valid_curve	function"
+			],
+			[
+				"Bos",
+				"BostonHousing	class"
+			],
+			[
+				"acc",
+				"acc_val	statement"
+			],
+			[
+				"err",
+				"error_train	statement"
+			],
+			[
+				"error",
+				"error_train	statement"
+			],
+			[
+				"num",
+				"num_exps	statement"
+			],
+			[
+				"O",
+				"object	class"
+			],
+			[
+				"X_",
+				"X_train	statement"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"The",
+				"Theta"
+			],
+			[
+				"the",
+				"Theta"
+			],
+			[
+				"y",
+				"yval"
+			],
+			[
+				"pred",
+				"pred_y"
+			],
+			[
+				"cur",
+				"cur_pred"
+			],
+			[
+				"pre",
+				"pred_y"
+			],
+			[
+				"sigma",
+				"sigma2"
+			],
+			[
+				"set",
+				"setwd	{base}"
+			],
+			[
+				"ma",
+				"max_iters"
+			],
+			[
+				"id",
+				"id_mat"
+			],
+			[
+				"be",
+				"best_ind"
+			],
+			[
+				"cu",
+				"cur_dist"
+			],
+			[
+				"cent",
+				"centroids"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"wor",
+				"word_indices"
+			],
+			[
+				"sim",
+				"simga"
+			],
+			[
+				"le",
+				"lambda_vec"
+			],
+			[
+				"va",
+				"validation_error"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"tr",
+				"train_error"
+			],
+			[
+				"lin",
+				"linearRegCostFunction"
+			],
+			[
+				"z",
+				"zeros"
+			],
+			[
+				"fil",
+				"fil_mat"
+			],
+			[
+				"th",
+				"theta_mat"
+			],
+			[
+				"Th",
+				"Theta1"
+			],
+			[
+				"de",
+				"del_2"
+			],
+			[
+				"a",
+				"a2"
+			],
+			[
+				"si",
+				"sigmoid"
+			],
+			[
+				"del",
+				"del_3"
+			],
+			[
+				"L",
+				"L_in"
+			],
+			[
+				"re",
+				"reg_cost"
+			],
+			[
+				"log",
+				"logi_cost"
+			],
+			[
+				"com",
+				"compute_cur_theta"
+			],
+			[
+				"al",
+				"all_theta"
+			],
+			[
+				"ld",
+				"ldl_sex_age.mlr"
+			],
+			[
+				"dev",
+				"dev.copy"
+			],
+			[
+				"ldl",
+				"ldl_sex.slr"
+			],
+			[
+				"apo",
+				"apoe1"
+			],
+			[
+				"gen",
+				"geno_levels"
+			],
+			[
+				"df",
+				"df_3"
+			],
+			[
+				"tc",
+				"tc.slr"
+			],
+			[
+				"chi",
+				"child_tc"
+			],
+			[
+				"par",
+				"par_tc"
+			],
+			[
+				"val",
+				"value.MLR"
+			],
+			[
+				"cor",
+				"corner"
+			],
+			[
+				"low",
+				"low_income"
+			],
+			[
+				"repeat",
+				"repeatschool"
+			],
+			[
+				"Y",
+				"year"
+			],
+			[
+				"fac",
+				"factor"
+			],
+			[
+				"data",
+				"data.frame"
+			],
+			[
+				"c",
+				"choices	param"
+			],
+			[
+				"tar",
+				"tarA	statement"
+			],
+			[
+				"mem",
+				"memoize	function"
+			],
+			[
+				"std",
+				"stdrs"
+			],
+			[
+				"coo",
+				"cookdist"
+			],
+			[
+				"ha",
+				"hat"
+			],
+			[
+				"lm.",
+				"lm.influence"
+			],
+			[
+				"res",
+				"resid.sr"
+			],
+			[
+				"ks",
+				"ks.test"
+			],
+			[
+				"resi",
+				"resid.sr"
+			],
+			[
+				"my",
+				"mytitle"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"sum",
+				"summary"
+			],
+			[
+				"pol",
+				"polygon"
+			],
+			[
+				"plo",
+				"plot"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"get",
+				"get_spent	function"
+			],
+			[
+				"bu",
+				"buget_set"
+			],
+			[
+				"tb",
+				"table	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"time",
+				"timezone	module"
+			],
+			[
+				"Li",
+				"LiveEntryManager	class"
+			],
+			[
+				"M",
+				"Manager	class"
+			],
+			[
+				"Man",
+				"manager	module"
+			],
+			[
+				"date_",
+				"date_field"
+			],
+			[
+				"Lin",
+				"LinkDetail"
+			],
+			[
+				"l",
+				"loading	module"
+			],
+			[
+				"do",
+				"do_latest_content	function"
+			],
+			[
+				"m",
+				"mymodel"
+			],
+			[
+				"con",
+				"contextname"
+			],
+			[
+				"Templa",
+				"TemplateSyntaxError	class"
+			],
+			[
+				"get_conte",
+				"get_context_data	function"
+			],
+			[
+				"Entry",
+				"EntryDetail	class"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"ta",
+				"tag_detail_view	function"
+			],
+			[
+				"Ta",
+				"Tag	class"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"T",
+				"Tag	class"
+			],
+			[
+				"obje",
+				"objects	statement"
+			],
+			[
+				"ob",
+				"objects	statement"
+			],
+			[
+				"Tag",
+				"TaggedItem	class"
+			],
+			[
+				"tag",
+				"tag_patterns	statement"
+			],
+			[
+				"entr",
+				"entry_set"
+			],
+			[
+				"name",
+				"namespace	param"
+			],
+			[
+				"context",
+				"context	statement"
+			],
+			[
+				"en",
+				"entry_index"
+			],
+			[
+				"ca",
+				"category	statement"
+			],
+			[
+				"C",
+				"CategoryIndex	class"
+			],
+			[
+				"link",
+				"linkpatterns"
+			],
+			[
+				"En",
+				"EntryMonthArchive	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Zhe/Documents/Kaggle_Project_Matlab/python/output_conversion.py",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Zhe/Documents/Kaggle_Project_Matlab/python/test_out.csv",
+			"settings":
+			{
+				"buffer_size": 3712752,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Force"
+				]
+			],
+			[
+				"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SendTextPlus/Python - Source File.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 327.0,
+		"history":
+		[
+			"python -u \"/Users/Zhe/Google Drive/data analyze/Berkeley.py\"",
+			"python -u py_compile \"/Users/Zhe/Google Drive/data analyze/Berkeley.py\"",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Zhe/Documents/Kaggle_Project_Matlab/python"
+	],
+	"file_history":
+	[
+		"/Users/Zhe/Documents/Kaggle_Project_Matlab/Python/convert_png.py",
+		"/Users/Zhe/Documents/Kaggle Project Matlab/Python/convert_png.py",
+		"/Users/Zhe/Documents/Kaggle Project Matlab/Python/trainLabels.csv",
+		"/Users/Zhe/Documents/Comp_540/hw1/part3/_fig_validation_curve_order_1.pdf",
+		"/Users/Zhe/Documents/Comp_540/hw1/part2/utils.py",
+		"/Users/Zhe/Documents/Comp_540/hw1/part3/ex3.py",
+		"/Users/Zhe/Documents/Comp_540/hw1/part3/ex3b.py",
+		"/Users/Zhe/Documents/Comp_540/hw1/hw1_writeup.tex",
+		"/Users/Zhe/Documents/stanford_machine_learning/Titanic/titanic.R",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/projectData.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/recoverData.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/pca.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/findClosestCentroids.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/computeCentroids.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/kMeansInitCentroids.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/ex7.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex7/ex7/runkMeans.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex5/ex5/learningCurve.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex5/ex5/polyFeatures.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex5/ex5/validationCurve.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex6/ex6/gaussianKernel.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex6/ex6/svmTrain.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex6/ex6/dataset3Params.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex6/ex6/processEmail.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex6/ex6/emailFeatures.m",
+		"/Users/Zhe/Documents/writing/Asia_422/Final.txt",
+		"/Users/Zhe/Documents/writing/Asia_422/midterm.txt",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex4/ex4/randInitializeWeights.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex4/ex4/sigmoidGradient.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex4/ex4/displayData.m",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/Zhe/Dropbox/Japan Visa/flight_iternary.tex",
+		"/Users/Zhe/Dropbox/Japan Visa/Flight Iternary",
+		"/Users/Zhe/Dropbox/Japan Visa/Travel_plan.tex",
+		"/Users/Zhe/Dropbox/Japan Visa/Chase Online - Printer Friendly.pdf",
+		"/Users/Zhe/Documents/stanford_machine_learning/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/Zhe/Documents/STAT/stat_410/hw5/prob_2.r",
+		"/Users/Zhe/Documents/STAT/stat_410/hw5/prob_1.r",
+		"/Users/Zhe/Documents/STAT/stat_410/hw5/writeup.tex",
+		"/Users/Zhe/Documents/STAT/stat_410/hw2/hw2.r",
+		"/Users/Zhe/Documents/STAT/stat_410/hw4/prob4.r",
+		"/Users/Zhe/Documents/STAT/stat_410/hw4/prob5.r",
+		"/Users/Zhe/Documents/STAT/stat_410/hw4/write_up.tex",
+		"/Users/Zhe/Documents/STAT/stat_410/hw3/writeup.tex",
+		"/Users/Zhe/Downloads/stat 410/hw3/prob_1.r",
+		"/Users/Zhe/Desktop/memo_demo.py",
+		"/Users/Zhe/Downloads/stat 410/hw3/prob_2.r",
+		"/Users/Zhe/Downloads/stat 410/hw3/writeup.tex",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Zhe/Downloads/stat 410/hw2/hw2.py",
+		"/Users/Zhe/Documents/django_projects/try_html/Final Code/chapter-15/example.html",
+		"/Users/Zhe/Documents/django_projects/templates/comments/preview.html",
+		"/Users/Zhe/Desktop/untitled.html",
+		"/Users/Zhe/Documents/django_projects/templates/css/table.css",
+		"/Users/Zhe/Documents/django_projects/templates/css/coltrane.css",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/base.html",
+		"/Users/Zhe/Documents/django_projects/myapps/sodagreen/views.py",
+		"/Users/Zhe/Desktop/try_wsgi.py",
+		"/Users/Zhe/Documents/django_projects/templates/css/typography.css",
+		"/Users/Zhe/Documents/django_projects/templates/sodagreen/base.html",
+		"/Users/Zhe/Documents/django_projects/cms/cms/wwww.py",
+		"/Users/Zhe/Documents/django_projects/templates/css/form.css",
+		"/Users/Zhe/Documents/django_projects/cms/cms/settings.py",
+		"/Users/Zhe/Documents/django_projects/myapps/sodagreen/models.py",
+		"/Users/Zhe/Documents/django_projects/templates/sodagreen/category_index.html",
+		"/Users/Zhe/Documents/django_projects/myapps/sodagreen/url1s.py",
+		"/Users/Zhe/Documents/django_projects/cms/cms/urls.py",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/views.py",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/try_syntax.py",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/comments_spam.py",
+		"/Users/Zhe/Documents/django_projects/templates/comments/list.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/link_detail.html",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/models.py",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/admin.py",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/entry_detail.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/entry_index.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/link_list.html",
+		"/Users/Zhe/Documents/django_projects/myapps/sodagreen/admin.py",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/templatetags/coltrane_tags.py",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/tag_detail.html",
+		"/Users/Zhe/Documents/django_projects/myapps/coltrane/urls.py",
+		"/Users/Zhe/Documents/django_projects/templates/list.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/entry_archive_year.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/entry_base.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/url_list.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/tag_index.html",
+		"/Users/Zhe/Documents/django_projects/cms/cms/views.py",
+		"/Users/Zhe/Documents/django_projects/templates/fun/tryhtml.html",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/category_detail.html",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Python Django.sublime-settings",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/test_grammer.py",
+		"/Users/Zhe/Documents/django_projects/templates/coltrane/index.html",
+		"/Users/Zhe/Documents/pyGUI/manager/task_disp.py",
+		"/Users/Zhe/Documents/pyGUI/manager/sqlCom.py",
+		"/Users/Zhe/Documents/django_projects/cms/search/admin.py",
+		"/Users/Zhe/Documents/django_projects/templates/flatpages/default.html",
+		"/Users/Zhe/Documents/django_projects/cms/search/views.py",
+		"/Users/Zhe/Documents/django_projects/templates/search/search.html",
+		"/Users/Zhe/Documents/django_projects/cms/search/models.py",
+		"/Users/Zhe/Documents/django_projects/cms/admin/admin.py",
+		"/Users/Zhe/Documents/django_projects/cms/flatpages/admin.py",
+		"/Users/Zhe/Documents/django_projects/templates/admin/flatpages/flatpage/change_form.html",
+		"/Users/Zhe/Documents/django_projects/cmsr/cms/urls.py",
+		"/Users/Zhe/Documents/django_projects/cms/static/click.js",
+		"/Users/Zhe/Documents/django_projects/cms/__init__.py",
+		"/Users/Zhe/cms",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/poll/views.py",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/mysite/settings.py",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/poll/admin.py",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/poll/urls.py",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/poll/templates/poll/index.html",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/poll/templates/poll/detail.html",
+		"/Users/Zhe/Documents/django_projects/mysite/mysite/poll/models.py",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.04.py",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Anaconda/LICENSE",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Zhe/Documents/pyGUI/manager/study_info.txt",
+		"/Users/Zhe/Documents/pyGUI/manager/manager.py",
+		"/Users/Zhe/Documents/django_projects/cms_1/cms/cms/urls.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ldl",
+			"0.6",
+			"ldl",
+			"tc",
+			"75",
+			"\"",
+			"'",
+			"indent",
+			"entry",
+			"textarea",
+			"timeformate",
+			"save_pr",
+			"self.courses",
+			"time",
+			"cumcompleted",
+			"resume",
+			"start",
+			"select_all",
+			"pypad",
+			"icons",
+			"icon",
+			"line",
+			"end",
+			"aboutmenu",
+			"themchoice",
+			"right",
+			"NO",
+			"YES",
+			"')\n",
+			"build",
+			"},\n",
+			"build",
+			"lock_comp",
+			"n",
+			"Texas",
+			"Mary",
+			"Cin",
+			"print",
+			"aaa",
+			"length",
+			"test100MaxFactorize0(FactorizationTester)",
+			"long",
+			"PrintStream",
+			"printStrean",
+			"'",
+			"T",
+			"F",
+			"True-",
+			"zhang",
+			"Guangzho",
+			"GaoYueMing",
+			"codecs",
+			"Yue",
+			"pritn",
+			"*\n",
+			"info",
+			"()",
+			"print",
+			")\n",
+			"print",
+			"\"E\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Zhe/Documents/Kaggle_Project_Matlab/python/output_conversion.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Zhe/Documents/Kaggle_Project_Matlab/python/test_out.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3712752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3899535.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kaggle.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/pyGUI/manager/testDB.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/STAT/stat_410/stat_410.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
